@@ -1,0 +1,12 @@
+gitconfig-
+
+
+$ git config --list
+to change the username and password.
+
+
+git config user.email
+
+
+git config --global user.email [your email address here]
+git config --global user.email prathyusha.system@gmail.com
