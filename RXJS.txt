@@ -1,0 +1,32 @@
+ Bellevue, Washington  Full Time  Share this job
+T-Mobile is looking for an exceptional Sr. Engineer who specializes in Angular to work on the T-Mobile.com and My.T-Mobile.com websites! If you know your way around Angular, NgRx, Node.js and Kubernetes, this is your opportunity to shine and join us as we build the next generation of T-Mobile’s digital experiences!
+What you'll do in your role.
+Strategy
+▪ Owns the technical vision and development of a subdomain or capability.
+
+Technology and System
+▪ Develop Angular applications to deliver new systems functionality supporting corporate business objectives. Leads moderately complex projects.
+▪ Utilizes development skills to build software and unit test new systems functionality per technical specifications, with deliverables to include builds and releases.
+▪ Ensures Continuous Integration and Build is in place and being leveraged.
+▪ Maintains technical skills and expertise through continuing education and training.
+
+Project Management
+▪ Translates business, and functional requirements into documented technical specifications or User Stories.
+▪ Communicates design, requirements, functionality, and limitations of systems/applications.
+▪ Utilizes development skills to build (code) and unit test new systems functionality, with deliverables to include code builds and unit test results.
+▪ Develops or updates support documentation as needed by the DevOps function and lead Peer Review to allow acceptance of systems changes into production.
+▪ Facilitates/leads reviews (walkthroughs) or grooming sessions and demos of technical features and program code with other members of the technical team, communicating design, requirements, feature set, functionality and limitations of systems/applications to team and other engineers.
+▪ Utilizes product lifecycle methodology as a guide for development activities.
+▪ Provides on-call and after-hours support as required for production releases and to respond and provide active resolution support on production outages.
+The experience you'll bring.
+Minimum 5 years’ Application Development Experience.
+Minimum 5 years’ professional experience designing and developing applications on one operating system (Unix or Windows) or designing complex multi-tiered applications.
+Minimum of 5 years’ work experience as a Software Engineer is desirable, preferably in the wireless industry.
+3+ years of creating responsive web applications using HTML5, CSS3, Bootstrap, Angular.
+2+ years of creating Microservices using Spring Boot, NodeJs.
+1-2 years of content management systems like AEM preferred.
+1 year of NGRX, RXJS angular extensions
+Must have development experience on at least 4 projects with total project team size greater than 3 team members.
+Required experience mentoring other members of technical/development staff.
+Must have strong communication skills, analytics and technical writing experience
+Code debugging and review and Code issue triaging
