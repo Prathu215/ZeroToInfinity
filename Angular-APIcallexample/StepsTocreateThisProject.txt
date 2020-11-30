@@ -1,0 +1,12 @@
+UsersList showing Lat and Long values on tabular format.
+
+
+1) Create the project sample using command prompt/cli
+2) Create users component and also users service
+3) Import http module in app.module.ts and import httpclient in users service.
+4) In users implemented getUsers function for calling the rest Api.
+5) In users component import the users service in compontent.ts file and call the getUsers method
+6) After calling the getUsers method, subscribe and handle the response(Assign that response to UsersList variable)
+7) In users component.html, Added Bootstrap table and there iterating the userList on tr tag using *ngFor.
+8) Here called users component in appcomponent.html.
+9) We can also create a route file and show this but as per the requirement we need only single screen so done with direct component selector. 
