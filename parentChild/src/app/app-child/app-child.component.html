@@ -4,5 +4,8 @@
 <p>Age:{{ employee.age }}</p>
 <p>Address:{{ employee.address }}</p>
 <p>Role: {{ employee.role }}</p>
-<p>Salary: {{ employee.salary}}</p>
+<p>Salary: {{ employee.salary}}</p><span>Update:<input type="text" [(ngModel)]="newSalary"></span>
+<button (click) ="update()">
+update
+</button>
 </div>

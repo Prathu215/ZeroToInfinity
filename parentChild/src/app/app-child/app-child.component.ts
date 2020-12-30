@@ -9,7 +9,12 @@ export class AppChildComponent implements OnInit {
   ngOnInit(): void {
    console.log("employee object in child component:",this.employee)
   }
+  newSalary:any;
   @Input()
   employee : any ;
+
+  update(){
+    alert(this.newSalary);
+  }
 
 }
