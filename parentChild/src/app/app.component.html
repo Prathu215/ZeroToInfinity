@@ -27,5 +27,5 @@
     </tbody>
   </table>
 </form>
-<app-app-child [employee]='currentEmployee'></app-app-child>
+<app-app-child (updateSalary)="onUpdateSalary($event)"  [employee]='currentEmployee'></app-app-child>
 </div>

@@ -16,8 +16,12 @@ export class AppComponent {
   ];
 
   onSelectedEmployee(employee : any){
-    this.currentEmployee= employee ;
+    this.currentEmployee = employee ;
     console.log(employee); 
+  }
+  onUpdateSalary(updateSalary: Event){
+    this.currentEmployee.salary = updateSalary ;
+    console.log(updateSalary);
   }
 
 }

@@ -1,4 +1,5 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+//import { EventEmitter } from 'events';
 
 @Component({
   selector: 'app-app-child',
@@ -10,11 +11,16 @@ export class AppChildComponent implements OnInit {
    console.log("employee object in child component:",this.employee)
   }
   newSalary:any;
+ 
+  @Output()
+  public updateSalary = new EventEmitter();
   @Input()
   employee : any ;
 
   update(){
-    alert(this.newSalary);
+    // alert(this.newSalary);
+    this.updateSalary.emit(this.newSalary);
+    // emits an event to handle all event handlers
   }
 
 }
