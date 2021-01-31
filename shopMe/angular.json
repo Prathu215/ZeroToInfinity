@@ -93,7 +93,6 @@
             ],
             "styles": [
               "src/styles.css",
-              
               "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
@@ -127,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "shopMe"
+  "defaultProject": "shopMe",
+  "cli": {
+    "analytics": "3edbaf8b-3857-413d-a24e-0ddd444a1db2"
+  }
 }
