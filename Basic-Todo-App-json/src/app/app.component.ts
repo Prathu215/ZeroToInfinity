@@ -50,9 +50,9 @@ export class AppComponent {
       done: false
 
     };
-    console.log("Todo list before push: ",newtodo);
+    console.log("Todo list before push: ",this.todos);
     this.todos.push(newtodo);
-    console.log("Todo list after push: ",newtodo);
+    console.log("Todo list after push: ",this.todos);
   }
   // console.log(newtodo);
 
